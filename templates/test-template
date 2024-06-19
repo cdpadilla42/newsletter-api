@@ -1,0 +1,12 @@
+<p>Hi ${firstName},</p>
+
+<p>Thanks for subscribing to my newsletter!</p>
+<p>I'll keep you posted with what I'm up to through your subscribed email <strong>${email}</strong></p>
+
+<p>If you'd like to unsubscibe, you can do so anytime by sending me an email saying so.</p>
+
+<p>Sincerely,</p>
+<p>
+	Chris Padilla<br />
+	<a href="https://chrisdpadilla.com">chrisdpadilla.com</a>
+</p>
